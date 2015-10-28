@@ -1,11 +1,3 @@
-对git还是使用不熟练，好在github新建项目后体贴地提示是不是要执行这样两句——
-
-这两句我肯定是背不住的，所以记一下。
-
-git remote add origin https://github.com/qidafang/iOS_427studio.git
-git push -u origin master
-思而勤工作室的手机app，ios版开发比android还顺利一点，记录一下用到的知识：
-
 1)表现层
 
 故事板做界面+controller类，用着很舒服的组合。而且基础库自带了标签结构和导航结构。
